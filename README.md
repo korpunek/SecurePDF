@@ -8,6 +8,7 @@
 
 ## Setup
 * do uruchomienia skryptu app.py trzeba zainstalować przez pip install 
-... 
+''' 
 $ ttkbootstrap==1.10.1
 $ pypdf=3.4.1
+'''
