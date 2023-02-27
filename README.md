@@ -9,4 +9,4 @@
 ## Setup
 * do uruchomienia skryptu app.py trzeba uruchomić plik setup.bat 
 * setup.bat instaluje środowisko virtualne i potrzebne moduły
-* 
+* można zainstalować potrzebne moduły poprzez pip, bez instalacji środowiska virtualnego
