@@ -7,9 +7,6 @@
 * pypdf 3.4.1
 
 ## Setup
-* do uruchomienia skryptu app.py trzeba zainstalować przez pip install 
-
-''' 
-$ ttkbootstrap==1.10.1
-$ pypdf=3.4.1
-'''
+* do uruchomienia skryptu app.py trzeba uruchomić plik setup.bat 
+* setup.bat instaluje środowisko virtualne i potrzebne moduły
+* 
