@@ -1,0 +1,10 @@
+/build
+/dist
+/venv
+app.spec
+enc_faktura.pdf
+faktura.pdf
+package.bat
+setup.bat
+start.bat
+stop.bat
