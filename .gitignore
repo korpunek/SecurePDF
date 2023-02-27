@@ -6,6 +6,5 @@ Dockerfile
 enc_faktura.pdf
 faktura.pdf
 package.bat
-setup.bat
 start.bat
 stop.bat
