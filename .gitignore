@@ -2,7 +2,6 @@
 /dist
 /venv
 app.spec
-Dockerfile
 enc_faktura.pdf
 faktura.pdf
 package.bat
